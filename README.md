@@ -33,14 +33,6 @@
 
 ---
 
- 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codesandmore&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
  📫 Connect With Me
 - 💬 Feel free to drop an issue, pull request, or just a hi!
 
