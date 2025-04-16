@@ -3,7 +3,7 @@
 
 ---
 
- 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
@@ -17,7 +17,7 @@
 
 ---
 
- 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Codesandmore&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -25,7 +25,7 @@
 
 ---
 
- 🔝 Most Used Languages
+### 🔝 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codesandmore&layout=compact&theme=radical" alt="Top Languages" />
@@ -33,8 +33,15 @@
 
 ---
 
- 📫 Connect With Me
-- 💬 Feel free to drop an issue, pull request, or just a hi!
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="inkedin.com/in/chackochan-jose-74478b287/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
+
+💬 Feel free to drop an issue, pull request, or just a hi!
 
 ---
 
