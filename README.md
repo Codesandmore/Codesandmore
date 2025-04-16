@@ -41,7 +41,7 @@
   </a>
 </p>
 
-💬 Feel free to drop an issue, pull request, or just a hi!
+💬 Feel free to drop a hi!
 
 ---
 
