@@ -36,7 +36,7 @@
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="inkedin.com/in/chackochan-jose-74478b287/" target="_blank">
+  <a href="https://inkedin.com/in/chackochan-jose-74478b287/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
