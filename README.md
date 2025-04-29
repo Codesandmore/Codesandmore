@@ -44,5 +44,3 @@
 💬 Feel free to drop a hi!
 
 ---
-
-⭐️ *Thanks for visiting my profile!*
