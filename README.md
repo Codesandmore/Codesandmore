@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chackochan Jose</h1>
-<p align="center">Welcome to my GitHub profile</p>
+<p align="center">chackochanme@gmail.com</p>
 
 ---
 
@@ -42,14 +42,10 @@
 ### 📫 Connect With Me
 
 <p align="left">
-  <span style="display: inline-block; margin-right: 15px;">
-    <a href="https://www.linkedin.com/in/chackochan-jose-74478b287/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-    </a>
-  </span>
-  <span style="display: inline-block;">
-    <a href="https://leetcode.com/u/_chacko_/" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
-    </a>
-  </span>
+  <a href="https://www.linkedin.com/in/chackochan-jose-74478b287/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/_chacko_/" target="blank" style="margin-left: 10px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" />
+  </a>
 </p>
