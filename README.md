@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chackochan Jose</h1>
-<p align="center">chackochanme@gmail.com</p>
+<p align="center">Welcome to my GitHub profile/p>
 
 ---
 
@@ -45,7 +45,7 @@
   <a href="https://www.linkedin.com/in/chackochan-jose-74478b287/" target="blank" >
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://leetcode.com/u/_chacko_/" target="blank"">
+  <a href="https://leetcode.com/u/_chacko_/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40"/>
   </a>
 </p>
