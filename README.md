@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chackochan Jose</h1>
-<p align="center">Welcome to my GitHub profile/p>
+<p align="center">Welcome to my GitHub profile</p>
 
 ---
 
