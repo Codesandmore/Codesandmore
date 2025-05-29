@@ -39,13 +39,17 @@
 
 ---
 
-### Connect With Me
+### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/chackochan-jose-74478b287/" target="_blank" style="margin-right: 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://leetcode.com/u/_chacko_/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
-  </a>
+  <span style="display: inline-block; margin-right: 15px;">
+    <a href="https://www.linkedin.com/in/chackochan-jose-74478b287/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    </a>
+  </span>
+  <span style="display: inline-block;">
+    <a href="https://leetcode.com/u/_chacko_/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
+    </a>
+  </span>
 </p>
