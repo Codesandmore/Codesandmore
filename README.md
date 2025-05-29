@@ -45,7 +45,7 @@
   <a href="https://www.linkedin.com/in/chackochan-jose-74478b287/" target="blank" >
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://leetcode.com/u/_chacko_/" target="blank" style="margin-left: 10px;">
+  <a href="https://leetcode.com/u/_chacko_/" target="blank"">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40"/>
   </a>
 </p>
